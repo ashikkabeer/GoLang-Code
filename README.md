@@ -14,7 +14,7 @@
     - go mod tidy command
     - Calling a function from another module
 
-## Online contents by me
+## 🗞️ Online contents by me
 - (soon...)
 
 ## 🔧 Usage
