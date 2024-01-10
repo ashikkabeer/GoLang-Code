@@ -36,6 +36,5 @@
 | soon... | [link]() |
 
 
-
 ## 🔧 Usage
 Each code snippet or project is organized in its own directory. You can navigate to a specific directory to explore the code.
