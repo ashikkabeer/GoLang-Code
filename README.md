@@ -7,6 +7,7 @@
  In this repository, you will find code examples and projects that I have created while learning Golang. Each code snippet or project focuses on a specific concept or feature of the language.
 
 ## 🖊️ Resources
+- [Go in 100 Seconds - Fireship](https://youtu.be/446E-r0rXHI)
 - [GoLang Official Documentation](https://go.dev/doc/tutorial/getting-started)
 
 ## 📅 Progress
