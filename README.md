@@ -10,18 +10,23 @@
 - [GoLang Official Documentation](https://go.dev/doc/tutorial/getting-started)
 
 ## 📅 Progress
-| Day                | Topics Learned                     | Links                                    |
-|--------------------|------------------------------------|------------------------------------------|
-| Day 1 (09/01/2024) | Running a Go program               |
-|                    | Initializing a Go module           |
-|                    | Cleaning up module dependencies    |
-|                    | Interacting with different modules |
-|                    | Managing errors in Go              |
-|                    | Using the log package in Go        |
-|                    | Using go slices                    | [link](https://go.dev/blog/slices-intro) |
-
-
-
+<table>
+  <tr>
+    <td>Day 1 (09/01/2024)</td>
+    <td colspan="6">Running a Go program</td>
+   <td>Initializing a Go module</td>
+    <td>Cleaning up module dependencies</td>
+    <td>Interacting with different modules</td>
+    <td>Managing errors in Go</td>
+    <td>Using the log package in Go</td>
+  </tr>
+  <tr>
+    <td>Day 2 (10/01/2024)</td>
+    <td>working with slice</td>
+    
+  </tr>
+</table>
+<table>
 
 ## 🗞️ My Contents
 - (soon...)
