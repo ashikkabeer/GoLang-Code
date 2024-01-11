@@ -31,7 +31,7 @@
     <td>Day 3 (11/01/2024)</td>
     <td>maps for representing name/value pairs</td>
     <td>backward compatibility</td>
-    <td>Writing test (go test)</td>
+    <td>Writing test</td>
 
   </tr>
 </table>
