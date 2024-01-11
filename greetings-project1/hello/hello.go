@@ -18,8 +18,12 @@ func main() {
 	log.SetPrefix("greetings: ")
 	log.SetFlags(0)
 
+	//A slice of names.
+	names := []string{"Gladys", "Samantha", "Darrin"}
+	messages, err := greetings.Hellos(names)
+
 	//request a greeting message
-	message, err := greetings.Hello("Ashik")
+	//message, err := greetings.Hello("Ashik")
 	//if err => print the console and exit
 	if err != nil {
 		log.Fatal(err)
@@ -27,6 +31,7 @@ func main() {
 		// so it print the error and stops the process
 		//	https://pkg.go.dev/log#Fatal
 	}
+
 	//if no err => print the message
-	fmt.Println(message)
+	fmt.Println(messages)
 }

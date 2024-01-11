@@ -25,7 +25,14 @@
     <td>Day 2 (10/01/2024)</td>
     <td>working with slice</td>
     <td>math/rand package with slice</td>
-    <td>math/rand package with slice</td>
+
+  </tr>
+  <tr>
+    <td>Day 3 (11/01/2024)</td>
+    <td>maps for representing name/value pairs</td>
+    <td>backward compatibility</td>
+    <td>Writing test (go test)</td>
+
   </tr>
 </table>
 
