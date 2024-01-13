@@ -9,6 +9,7 @@
 ## 🖊️ Resources
 - [Go in 100 Seconds - Fireship](https://youtu.be/446E-r0rXHI)
 - [GoLang Official Documentation](https://go.dev/doc/tutorial/getting-started)
+- [GoLang Tour](https://go.dev/tour/welcome/1)
 
 ## 📅 Progress
 <table>
