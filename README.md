@@ -6,36 +6,17 @@
 ## 📚 Introduction
  In this repository, you will find code examples and projects that I have created while learning Golang. Each code snippet or project focuses on a specific concept or feature of the language.
 
+## Commands
+- go run filename.go
+- go mod init example.com/hello
+- go build filename.go -> build it as executable(.exe)
+- 
+
 ## 🖊️ Resources
-- [Go in 100 Seconds - Fireship](https://youtu.be/446E-r0rXHI)
+
+- [w3schools](https://www.w3schools.com/go)
 - [GoLang Official Documentation](https://go.dev/doc/tutorial/getting-started)
 - [GoLang Tour](https://go.dev/tour/welcome/1)
-
-## 📅 Progress
-<table>
-  <tr>
-    <td>Day 1 (09/01/2024)</td>
-    <td>Running a Go program</td>
-   <td>Initializing a Go module</td>
-    <td>Cleaning up module dependencies</td>
-    <td>Interacting with different modules</td>
-    <td>Managing errors in Go</td>
-    <td>Using the log package in Go</td>
-  </tr>
-  <tr>
-    <td>Day 2 (10/01/2024)</td>
-    <td>working with slice</td>
-    <td>math/rand package with slice</td>
-
-  </tr>
-  <tr>
-    <td>Day 3 (11/01/2024)</td>
-    <td>maps for representing name/value pairs</td>
-    <td>backward compatibility</td>
-    <td>Writing test</td>
-
-  </tr>
-</table>
 
 ## 🗞️ My Contents
 
