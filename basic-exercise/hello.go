@@ -19,5 +19,8 @@ func main() {
 	fmt.Println("Hello", "World")
 	fmt.Printf("a has value %v and type %T \n", a, a)
 	fmt.Println(name, age, job, friend, a, b, c, d, e, f, x, y)
+	var i, j string = "Hello", "World"
 
+	fmt.Print(i)
+	fmt.Print(j)
 }

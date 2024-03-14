@@ -11,7 +11,9 @@
 - go mod init example.com/hello
 - go build filename.go -> build it as executable(.exe)
 - 
-
+## Links to refer
+- formatting verbs- https://www.w3schools.com/go/go_formatting_verbs.php
+- 
 ## 🖊️ Resources
 
 - [w3schools](https://www.w3schools.com/go)
